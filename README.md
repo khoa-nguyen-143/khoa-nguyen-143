@@ -1,16 +1,36 @@
-## Hi there 👋
+# Nguyen Anh Khoa
 
-<!--
-**khoa-nguyen-143/khoa-nguyen-143** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sinh viên ngành Thiết kế Vi mạch tại Đại học Bách Khoa TP.HCM.
 
-Here are some ideas to get you started:
+## Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* IC Design
+* Hardware Design
+* Embedded Systems
+* PCB Design
+
+## Technical Skills
+
+* C/C++
+* SystemVerilog
+* AVR Microcontroller
+* Altium Designer
+* Proteus
+
+## Projects
+
+### Dual Axis Solar Tracking System
+
+Hệ thống bám mặt trời hai trục sử dụng LDR, LM324, NE555 và động cơ DC.
+
+### AVR Scientific Calculator
+
+Máy tính khoa học trên vi điều khiển AVR hỗ trợ tính toán biểu thức toán học.
+
+### MOSFET H-Bridge Motor Driver with Optocoupler Isolation
+
+Mạch cầu H công suất sử dụng MOSFET kết hợp cách ly quang để điều khiển động cơ DC.
+
+## Contact
+
+Email: [khoa.nguyen143@hcmut.edu.vn](mailto:khoa.nguyen143@hcmut.edu.vn)
