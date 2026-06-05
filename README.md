@@ -6,7 +6,6 @@ Sinh viên ngành Thiết kế Vi mạch tại Đại học Bách Khoa TP.HCM.
 
 * IC Design
 * Hardware Design
-* Embedded Systems
 * PCB Design
 
 ## Technical Skills
